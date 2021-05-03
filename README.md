@@ -11,8 +11,6 @@
  https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/FirstClock/index.html
  
 }
- 
-![111](https://user-images.githubusercontent.com/56477695/115112982-a195fb00-9f90-11eb-96b0-58611a91dc1f.png) 
 
 Portfolio-3 {
 

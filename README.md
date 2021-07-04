@@ -1,8 +1,8 @@
 # Second-Clock-version-site
  
-Вторая версия часов с новым матовым дизайном
+### Вторая версия часов с новым матовым дизайном
 
-Старая/Первая версия {
+### Старая/Первая версия {
 
  https://vladimirsaenko.github.io/First-Clock-site/
  
@@ -12,7 +12,7 @@
  
 }
 
-Portfolio-3 {
+### Portfolio-3 {
 
 https://vladimirsaenko.github.io/Portfolio-3/sites/site-6/Second-version-Clock/index.html
 

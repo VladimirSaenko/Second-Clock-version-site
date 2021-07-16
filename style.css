@@ -39,7 +39,6 @@ body::after {
 }
 
 @keyframes animateMove {
-
     0%, 100% {
         transform: translateY(10px);
     }

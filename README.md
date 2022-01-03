@@ -2,7 +2,7 @@
  
 ### Вторая версия часов с новым матовым дизайном
 
-### Старая/Первая версия {
+## First Clock {
 
 ### https://vladimirsaenko.github.io/First-Clock-site/
  

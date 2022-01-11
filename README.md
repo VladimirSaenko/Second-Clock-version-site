@@ -8,7 +8,7 @@
  
 ### https://github.com/VladimirSaenko/First-Clock-site
  
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-10/FirstClock/index.html
+### https://vladimirsaenko.github.io/Portfolio-2/sites/site-9/FirstClock/index.html
  
 ### }
 

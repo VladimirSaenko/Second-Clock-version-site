@@ -1,4 +1,4 @@
-# Second-Clock-version-site
+# Second-Clock-site
 
 ## Вторая версия часов с новым матовым дизайном
 

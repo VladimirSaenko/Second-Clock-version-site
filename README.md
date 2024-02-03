@@ -1,6 +1,6 @@
 # Second-Clock-site
 
-## Вторая версия часов с новым матовым дизайном
+## Second version of clock-site with new design
 
 ![4234](https://user-images.githubusercontent.com/56477695/148945146-212b01dd-dbd2-44d2-ae45-a2110605dbc0.jpg)
 

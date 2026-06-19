@@ -6,16 +6,16 @@
 
 ## First Clock {
 
-### https://vladimirsaenko.github.io/First-Clock-site/
+### https://volodymyrsaienko240.github.io/First-Clock-site/
  
-### https://github.com/VladimirSaenko/First-Clock-site
+### https://github.com/volodymyrsaienko240/First-Clock-site
  
-### https://vladimirsaenko.github.io/Portfolio-2/sites/site-9/FirstClock/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-2/sites/site-9/FirstClock/index.html
  
 ### }
 
 ## Portfolio {
 
-### https://vladimirsaenko.github.io/Portfolio-3/sites/site-6/Second-version-Clock/index.html
+### https://volodymyrsaienko240.github.io/Portfolio-3/sites/site-6/Second-version-Clock/index.html
 
 ### }
